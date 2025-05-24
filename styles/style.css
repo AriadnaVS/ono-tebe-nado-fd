@@ -1,7 +1,7 @@
 body {
 
     width: 1100px;
-    margin: 0;
+    margin: auto;
     font-family: Raleway, Arial, Helvetica, sans-serif;
 
 }
@@ -13,7 +13,6 @@ header {
     height: 293px;
     padding: 0 50px;
     font-size: 18px;
-    width: 1100px;
 }
 
 
@@ -63,7 +62,6 @@ header {
   padding: 160px 50px 50px;
   color: #fff;
   text-transform: uppercase;
-  width: 1100px;
 }
 
 .overlay {
@@ -238,12 +236,13 @@ article {
 }
 
 .about {
-  width: 1052px;
   height: 595px;
   display: grid;
   grid-template-columns: 240px 1fr; 
   gap: 73px; 
-  margin: 114px 71px 180px; 
+  margin-top: 114px;
+  margin-bottom: 180px;
+  padding-left: 71px;
 }
 
 .about__logo {
