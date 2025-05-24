@@ -1,1 +1,1 @@
-https://github.com/AriadnaVS/ono-tebe-nado-fd#
+https://github.com/AriadnaVS/ono-tebe-nado-fd
